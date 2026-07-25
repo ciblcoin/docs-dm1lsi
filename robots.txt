@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-mvwsgn.koi888.cfd/sitemap.xml
